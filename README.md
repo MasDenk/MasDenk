@@ -1,4 +1,4 @@
-<h1 align="left">Hi Guys <img src="https://github.com/masdenk/masdenk/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=masdenk&label=Visit&style=flat&color=red"></h1>
+<h1 align="left">Hi Guys <img src="https://github.com/masdenk/masdenk/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=masdenk&label=Views&style=flat&color=red"></h1>
 <h3 align="center">I'm a basic Website and Apps developer</h3><br><br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/git-header.svg" />
 <h4 align="left">My Information:</h4>
@@ -15,7 +15,7 @@
   <a href="https://github.com/MasDenk/">
     <img width="50%" align="right" alt="MasDenk's github stats" src="https://github-readme-stats.vercel.app/api?username=masdenk&show_icons=true&theme=radical&hide_border=true&cache_seconds=120&locale=en" />
   </a>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android/android.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android-studio/android-studio.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/angular/angular.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
@@ -24,10 +24,11 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/graphql/graphql.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/html/html.png"></code>&nbsp;&nbsp;
   <br/><br/><br/>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/bot/bot.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/java/java.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/linux/linux.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/windows/windows.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/nginx/nginx.png"></code>&nbsp;&nbsp;
