@@ -1,7 +1,6 @@
-<h1 align="center">Hi Guys <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk</h1>
+<h1 align="left">Hi Guys <img src="https://github.com/masdenk/masdenk/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk</h1>
 <h3 align="center">I'm a basic Website and Apps developer</h3><br><br>
-<a href="https://www.buymeacoffee.com/masdenk"><img src="https://i.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.webp" alt="side Image" align="right" width="200" height="150" style="vertical-align:text-top;" /></a>
-<a href="https://ko-fi.com/masdenk"> <img src="https://github.com/masdenk/masdenk/blob/master/assets/buycofee.gif" alt="side Gif" align="right" width="200" height="180"/> </a>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/git-header.svg" />
 <h4 align="left">My Information:</h4>
 
   - 🌍  I'm based in Indonesia
@@ -12,40 +11,58 @@
   - 🤝  I'm open to collaborating on UI Paradise
 
 <h4 align="left">Languages and Tools:</h4>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>&nbsp;&nbsp;
-  <code><img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code><br><br>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp;&nbsp;
-  <code><img height="35" src="https://reactnative.dev/img/header_logo.svg"></code><br><br>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>&nbsp;&nbsp;
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code><br><br>
-  
-<h4 align="left">Statistic:</h4>
-<table cellspacing="0" cellpadding="0"><tr><td width="50%">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=masdenk&show_icons=true&theme=radical&hide_border=true&cache_seconds=120&locale=en" alt="masdenk" align="right"/>
-</td><td>
-  
-  ![MasDenk's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasDenk&theme=react-dark&hide_border=true)
-  
-</td></table>
-<div align="center">
-    
- ![trophy](https://github-profile-trophy.vercel.app/?username=masdenk&no-frame=true&theme=dark_dimmed)
+<p>
+  <a href="https://github.com/MasDenk/">
+    <img width="50%" align="right" alt="MasDenk's github stats" src="https://github-readme-stats.vercel.app/api?username=masdenk&show_icons=true&theme=radical&hide_border=true&cache_seconds=120&locale=en" />
+  </a>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android/android.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/angular/angular.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/terminal/terminal.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/css/css.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/firebase/firebase.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/graphql/graphql.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/html/html.png"></code>&nbsp;&nbsp;
+  <br/><br/><br/>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/java/java.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/linux/linux.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/nginx/nginx.png"></code>&nbsp;&nbsp;
+  <br/><br/><br/>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/php/php.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/postgresql/postgresql.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/python/python.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/react-native/react-native.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/redis/redis.png"></code>&nbsp;&nbsp;
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/redux/redux.png"></code>
+</p>
+<br/><br/>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MasDenk&theme=onestar&margin-w=20&no-bg=true&no-frame=true" />
+</p>
 
+<br/><br/>
+
+## Support me
+<p align="center">
+  <a href="https://ko-fi.com/masdenk" target="_blank"><img width="18%" alt="Support by ko-fi" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/support-kofi.png"/></a>
+  <a href="https://www.paypal.com/donate/?cmd=_donations&business=XM9RU544JWTYU&item_name=Support+Me+If+You+Want&currency_code=USD" target="_blank"><img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/support-paypal.png"/></a>
+  <a href="https://www.buymeacoffee.com/masdenk" target="_blank"><img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/support-buy-coffee.png"/></a>
+</p>
+
+---
+
+<!-- Its main projects -->
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/MasDenk/soraya" title="Help Group Telegram Bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=masdenk&repo=soraya&theme=react&border_color=03a206&border_radius=10"></a>
+  <a align="right" href="https://github.com/MasDenk/Rose-Bot" title="Telegram Rose Bot Manage Group"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=masdenk&repo=Rose-Bot&theme=react&border_color=03a206&border_radius=10"></a>
 </div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/MasDenk?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
