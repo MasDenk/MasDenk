@@ -1,63 +1,51 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1500 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+<h1 align="center">Hi Guys <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk</h1>
+<h3 align="center">I'm a basic Website and Apps developer</h3><br><br>
+<a href="https://www.buymeacoffee.com/masdenk"><img src="https://i.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.webp" alt="side Image" align="right" width="200" height="150" style="vertical-align:text-top;" /></a>
+<a href="https://ko-fi.com/masdenk"> <img src="https://github.com/masdenk/masdenk/blob/master/assets/buycofee.gif" alt="side Gif" align="right" width="200" height="180"/> </a>
+<h4 align="left">My Information:</h4>
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1516.00  ┤                                                                                        ╭╮
- 1508.19  ┤                                                                                       ╭╯╰╮
- 1500.38  ┤                                                                                  ╭╮ ╭╮│  ╰╮
- 1492.56  ┤                                         ╭╮                               ╭─╮╭─╮╭╮│╰─╯╰╯   ╰╮
- 1484.75  ┤                                        ╭╯╰╮                            ╭─╯ ╰╯ ││╰╯         ╰╮╭╮
- 1476.94  ┤                                       ╭╯  ╰╮╭╮   ╭─╮╭─╮           ╭╮  ╭╯      ╰╯            ╰╯╰──╮
- 1469.12  ┼╮                                      │    ╰╯╰╮╭╮│ ╰╯ │         ╭─╯╰─╮│                          ╰
- 1461.31  ┤╰╮                                ╭╮╭╮╭╯       ╰╯╰╯    ╰╮     ╭╮╭╯    ╰╯
- 1453.50  ┤ ╰╮    ╭╮                        ╭╯╰╯╰╯                 ╰─╮╭──╯╰╯
- 1445.69  ┤  │  ╭╮│╰╮╭╮╭─╮                 ╭╯                        ╰╯
- 1437.88  ┤  ╰╮╭╯╰╯ ╰╯╰╯ ╰╮╭╮             ╭╯
- 1430.06  ┤   ╰╯          ╰╯╰╮            │
- 1422.25  ┤                  ╰╮          ╭╯
- 1414.44  ┤                   ╰──╮  ╭╮  ╭╯
- 1406.62  ┤                      ╰╮╭╯╰╮╭╯
- 1398.81  ┤                       ╰╯  ╰╯
- 1391.00  ┤
+  - 🌍  I'm based in Indonesia
+  - ✉️  You can contact me at [cs@shcontrol.net](mailto:cs@shcontrol.net)
+  - ♻️  I'm currently working on [SHcontrol Limited](https://shcontrol.net/)
+  - ♻️  and on [DeCards Networks](https://decards.net/)
+  - 🧠  I'm learning PHP Based and Python
+  - 🤝  I'm open to collaborating on UI Paradise
 
-Chart last updated - Tue Jul 19 23:34:02 IST 2022  
-  ```
+<h4 align="left">Languages and Tools:</h4>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>&nbsp;&nbsp;
+  <code><img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code><br><br>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp;&nbsp;
+  <code><img height="35" src="https://reactnative.dev/img/header_logo.svg"></code><br><br>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>&nbsp;&nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code><br><br>
   
+<h4 align="left">Statistic:</h4>
+<table cellspacing="0" cellpadding="0"><tr><td width="50%">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=masdenk&show_icons=true&theme=radical&hide_border=true&cache_seconds=120&locale=en" alt="masdenk" align="right"/>
+</td><td>
+  
+  ![MasDenk's github activity graph](https://activity-graph.herokuapp.com/graph?username=MasDenk&theme=react-dark&hide_border=true)
+  
+</td></table>
+<div align="center">
+    
+ ![trophy](https://github-profile-trophy.vercel.app/?username=masdenk&no-frame=true&theme=dark_dimmed)
+
+</div>
