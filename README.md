@@ -1,4 +1,4 @@
-<h1 align="left">Hi Guys <img src="https://github.com/masdenk/masdenk/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk</h1>
+<h1 align="left">Hi Guys <img src="https://github.com/masdenk/masdenk/blob/master/assets/Hi.gif" width="29px">, My name is MasDenk <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=masdenk&label=Visit&style=flat&color=red"></h1>
 <h3 align="center">I'm a basic Website and Apps developer</h3><br><br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/masdenk/masdenk/master/assets/git-header.svg" />
 <h4 align="left">My Information:</h4>
