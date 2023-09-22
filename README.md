@@ -60,7 +60,7 @@
 
 <!-- Its main projects -->
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/MasDenk/soraya" title="Help Group Telegram Bot"><img align="left" width="400" height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MasDenk&repo=soraya&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="soraya"></a>
+  <a align="left" href="https://github.com/MasDenk/TradingViewTelegram" title="Help Group Telegram Bot"><img align="left" width="400" height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MasDenk&repo=TradingViewTelegram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="TradingViewTelegram"></a>
   <a align="right" href="https://github.com/MasDenk/Rose-Bot" title="Rose Telegram Bot"><img align="right" width="400" height="180" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MasDenk&repo=Rose-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Rose-Bot"></a>
 </div>
 <br><br><br><br><br><br<br><br><br><br><br><br>
