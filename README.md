@@ -42,10 +42,6 @@
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/redis/redis.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/redux/redux.png"></a></code>
 </p>
-<br/><br/>
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MasDenk&theme=onestar&margin-w=20&no-bg=true&no-frame=true" />
-</p>
 
 <br/><br/>
 
