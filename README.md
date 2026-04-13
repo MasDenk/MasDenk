@@ -6,14 +6,13 @@
   - 🌍  I'm based in Indonesia
   - ✉️  You can contact me at [cs@shcontrol.net](mailto:cs@shcontrol.net)
   - ♻️  I'm currently working on [SHcontrol Limited](https://shcontrol.net/)
-  - ♻️  and on [DeCards Networks](https://decards.net/)
   - 🧠  I'm learning PHP Based and Python
   - 🤝  I'm open to collaborating on UI Paradise
 
 <h4 align="left">Languages and Tools:</h4>
 <p>
   <a href="https://github.com/MasDenk/">
-    <img width="50%" align="right" alt="MasDenk's github stats" src="https://github-readme-stats.vercel.app/api?username=masdenk&show_icons=true&theme=radical&hide_border=true&cache_seconds=120&locale=en" />
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasDenk&theme=dark)
   </a>
   <code><a href="https://www.android.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android-studio/android-studio.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/angular/angular.png"></a></code>&nbsp;&nbsp;
