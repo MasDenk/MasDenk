@@ -17,24 +17,24 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasDenk&theme=vision_friendly_dark" style="width:55%;height:200px" align="right" alt="Profile Details"/>
   </a>
   <div float="left">
-  <code><a href="https://www.android.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android-studio/android-studio.png"></a></code>&nbsp;&nbsp;
+  <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/android-studio/android-studio.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/angular/angular.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/terminal/terminal.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/bootstrap/bootstrap.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/css/css.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/firebase/firebase.png"></a></code>&nbsp;&nbsp;
+  <br/><br/>
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/graphql/graphql.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/html/html.png"></a></code>&nbsp;&nbsp;
-  <br/><br/><br/>
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/bot/bot.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/java/java.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/javascript/javascript.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/linux/linux.png"></a></code>&nbsp;&nbsp;
+  <br/><br/>
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/windows/windows.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/mysql/mysql.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/nginx/nginx.png"></a></code>&nbsp;&nbsp;
-  <br/><br/><br/>
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/nodejs/nodejs.png"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></a></code>&nbsp;&nbsp;
   <code><a href="#"><img height="30" src="https://raw.githubusercontent.com/github/explore/ad60129d8fdfead3eb0e7ac3f25746e24b2bd0c8/topics/php/php.png"></a></code>&nbsp;&nbsp;
